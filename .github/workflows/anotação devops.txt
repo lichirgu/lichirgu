@@ -1,0 +1,20 @@
+assinged to me --> trabalho atribuído a algum membro do time
+grafico burn dowm --> mostra o trabalho feito durante um período de tempo,
+		      pode-se configurar o grafico para controlar itens ou 
+                      multiplos times.
+Sprint burndown --> grafico burndown da sprint, por período ou por apenas um time.
+Sprint capacity --> mostra a capacidade da equipe para a sprint atual
+Velocity --> Mapeia a velocidade do time
+CFD(Cumulative Flow Diagram)--> monitorar fluxo de trabalho através de um sistema
+                    ajudam as equipes a monitorar a contagem dos itens de trabalho
+	            a medida que avançam, progressivamente, através do fluxo de trabalho
+
+=======================================================
+trabalhando com squads e areas
+monta-se o time
+monta-se a área
+e em teams configurations configuramos o que cada time vai trabalhar e ver.
+Escolhendo o time no alto da tela
+==========================================
+CERTIFICAÇÃO AZ400
+
